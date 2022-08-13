@@ -52,9 +52,9 @@
       "account_address": "계정 주소",
       "onboard_key": "온보딩 키",
       "onboard_key_description": "인증 키로도 알려져 있습니다. 지금은 계정을 온체인에 등록할 때 필요합니다.",
-      "securite_recovery_phrase": "SECRET RECOVERY PHRASE",
-      "securite_note": "This is your secret account password (mnemonic). If you lose it no one can help you! Write it down now.",
-      "account_tips": "Your account does not exist yet on chain. You'll need to give someone your Onboarding Key so that they can create your account."
+      "securite_recovery_phrase": "비밀 복구 구문",
+      "securite_note": "이것이 당신의 비밀 계정 구문(니모닉)입니다. 잃어버릴 시 누구도 도와줄 수 없습니다! 꼭 적어두시길 권합니다.",
+      "account_tips": "아직 계정이 온체인에 존재하지 않습니다. 온보딩 키를 누군가에게 공유하여, 그들이 당신의 계정을 생성할 수 있도록 할 필요가 있습니다."
     },
     "account_from_mnem_submit": {
       "title":" Heads Up!",
