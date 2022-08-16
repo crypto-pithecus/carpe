@@ -57,43 +57,43 @@
       "account_tips": "아직 계정이 온체인에 존재하지 않습니다. 온보딩 키를 누군가에게 공유하여, 그들이 당신의 계정을 생성할 수 있도록 할 필요가 있습니다."
     },
     "account_from_mnem_submit": {
-      "title":" Heads Up!",
-      "body": " <p>Are you sure you wrote down your mnemonic phrase?</p> <p>You won't be able to recover your account without it. No one can help you if lose it.</p><p>This is the last opportunity to write it down.</p>",
-      "btn_cancel": "Let me check again",
-      "btn_submit": "Submit Now",
-      "btn_submiting": "Submiting"
+      "title":" 중요 알림!",
+      "body": " <p>확실히 니모닉 구문을 옮겨 적으셨나요?</p> <p>그것이 없으면 계정을 절대로 복구시킬 수 없습니다. 만약 분실한다면 누구도 도와줄 수 없습니다.</p><p>지금이 적어둘 수 있는 마지막 기회입니다.</p>",
+      "btn_cancel": "다시 확인",
+      "btn_submit": "지금 제출",
+      "btn_submiting": "제출중"
     },
     "account_from_mnem_from": {
-      "title": "RESTORE ACCOUNT",
-      "description": "Using your recovery words (mnemonic) you can configure Carpe as a wallet to monitor, and send transactions",
-      "placeholder": "Recovery Mnemonic"
+      "title": "계정 복구",
+      "description": "복구 단어들 (니모닉)을 이용하여 카르페를 지갑으로 사용할 수 있고, 거래를 확인하거나 보낼 수 있습니다.",
+      "placeholder": "복구 니모닉"
     },
     "account_switcher": {
-      "select_account": "Select Account",
-      "switch_account": "Switch Account",
-      "setting": "Settings",
-      "developers": "Developers"
+      "select_account": "계정 선택",
+      "switch_account": "계정 전환",
+      "setting": "설정",
+      "developers": "개발자모드"
     }
   },
   "about": {
-    "about": "About",
-    "release": "Release",
-    "version": "Version",
-    "branch": "Branch",
-    "commit": "Commit"
+    "about": "카르페란",
+    "release": "릴리즈",
+    "version": "버전",
+    "branch": "브랜치",
+    "commit": "커밋"
   },
   "settings": {
-    "title": "SETTINGS",
+    "title": "설정",
     "langapp_settings": {
-      "title": "Language and Appearance",
-      "lang": "Language",
-      "lang_description": "Choose the language used to display",
-      "lang_button": "English",
-      "theme": "Theme",
-      "theme_description": "Choose the theme"
+      "title": "언어 및 표시",
+      "lang": "언어",
+      "lang_description": "표시를 위한 언어를 선택해 주세요",
+      "lang_button": "영어",
+      "theme": "테마",
+      "theme_description": "테마를 선택해 주세요"
     },
     "network_settings": {
-      "title": "NETWORK SETTINGS",
+      "title": "네트워크 설정",
       "list_of_peers": "LIST OF PEERS",
       "description": "Choose a playlist of upstream nodes, so you can access the chain. Network connections will try the list in random order until a connection is made. Simply link to any playlist.json file here to update peers.",
       "playlist": "Update Playlist of Network Servers",
